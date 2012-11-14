@@ -1,3 +1,7 @@
+== Rails Tutorial
+This is Yamamoto Yuji's first Rails app for practice.
+Originial README.rdoc is below.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
